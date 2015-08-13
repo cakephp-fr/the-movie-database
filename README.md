@@ -38,7 +38,7 @@ class MyController extends AppController {
 
         $tvShow = $conn->searchTv('supernatural'); // execute a query
 
-        debug($movies); // watch the result
+        debug($tvShow); // watch the result
 
 	}
 
