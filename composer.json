@@ -1,5 +1,5 @@
 {
-    "name": "ch0c4/TheMovieDatabase",
+    "name": "ch0c4/the-movie-database",
     "description": "TheMovieDatabase datasource plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords":[
