@@ -241,8 +241,6 @@ class Connection
 		$params = array_merge($params, ['language' => $this->_lang, 'api_key' => $this->_apiKey]);
 		
 		$url .= '?' . http_build_query($params);
-
-		debug($url);
 		
 		return $this->_http->get($url);
 	}
