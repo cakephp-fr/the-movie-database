@@ -7,7 +7,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require ch0c4/the-movie-database
+composer require cakephp-fr/the-movie-database
 ```
 
 Before you can do any request you need set information :
@@ -31,7 +31,7 @@ Before you can do any request you need set information :
 use Cake\Datasource\ConnectionManager;
 
 class MyController extends AppController {
-	
+
 	public function index() {
 
 		$conn = ConnectionManager::get('theMovieDatabase'); // get the connection
