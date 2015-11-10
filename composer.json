@@ -1,5 +1,5 @@
 {
-    "name": "ch0c4/the-movie-database",
+    "name": "cakephp-fr/the-movie-database",
     "description": "TheMovieDatabase datasource plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords":[
@@ -10,12 +10,16 @@
         "api",
         "tmdb"
     ],
-    "homepage": "https://github.com/ch0c4/TMDB-Cakephp",
+    "homepage": "https://github.com/cakephp-fr/the-movie-database",
     "authors":[
         {
             "name": "Johan Sampedro",
             "role": "author",
             "homepage": "https://github.com/ch0c4"
+        },
+        {
+            "name": "Others",
+            "homepage": "https://github.com/cakephp-fr/TheMovieDatabase/graphs/contributors"
         }
     ],
     "require": {
